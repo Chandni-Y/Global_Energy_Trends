@@ -13,6 +13,10 @@ This Power BI dashboard project explores global energy consumption and productio
 - `6_Project_Executables/` – Full dataset & final PBIX file
 - `7_Project_Documentation_and_Demo/` – Documentation PDF & video demo
 
+## 📸 Dashboard Preview
+
+
+
 ## 📊 Key Insights
 
 - Total energy contribution: 45.28K TWh
