@@ -15,7 +15,9 @@ This Power BI dashboard project explores global energy consumption and productio
 
 ## 📸 Dashboard Preview
 
-
+![Image](https://github.com/user-attachments/assets/fb29b4ae-f43b-4c9a-b027-847827e89268)
+![Image](https://github.com/user-attachments/assets/911b1798-7d29-43bb-82ef-1b3351875a1f)
+![Image](https://github.com/user-attachments/assets/6815a1d8-3291-415c-9fff-60475a1c1d1e)
 
 ## 📊 Key Insights
 
